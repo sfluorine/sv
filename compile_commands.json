@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/bin/gcc",
+      "-c",
+      "-I",
+      "include",
+      "-fPIC",
+      "-o",
+      "src/sv.os",
+      "src/sv.c"
+    ],
+    "directory": "/home/fluorine/programming/sv",
+    "file": "/home/fluorine/programming/sv/src/sv.c",
+    "output": "/home/fluorine/programming/sv/src/sv.os"
+  }
+]
